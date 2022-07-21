@@ -15,7 +15,7 @@ describe('All Teams', () => {
 
     expect(response).to.status(200);
   });
-  it('Verifica o corpa da resposta com os teams', async () => {
+  it('Verifica o corpo da resposta com os teams', async () => {
     const response = await chai.request(app).get('/teams');
     expect(response.body).to.have.length(16);
   });
