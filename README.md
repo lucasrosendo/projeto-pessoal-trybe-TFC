@@ -6,6 +6,6 @@
 - Relacionamentos entre tableas
 
  ## Para rodar o projeto:
-  * Fazer uma copia SSH  ```git@github.com:lucasrosendo/projeto-pessoal-trybe-trybewallet.git```
+  * Fazer uma copia SSH  ```git@github.com:lucasrosendo/projeto-pessoal-trybe-TFC.git```
   * Executar o comando npm install
   * Executar o comando npm run compose:up dentro da pasta /app
